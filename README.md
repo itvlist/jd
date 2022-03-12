@@ -2,7 +2,7 @@
 
 关注微信公众号【晴园】---获取更多科学上网免费节点
 
-![check (1)](http://wxqun.ml/qy_430.jpg)
+![](https://cdn.jsdelivr.net/gh/sun520999/m3u/img/qy_860.jpg)
 
 ## 订阅链接：
 ### v2ray订阅：
