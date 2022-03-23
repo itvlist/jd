@@ -27,3 +27,4 @@
   https://cdn.jsdelivr.net/gh/itvlist/jd/ml.txt              [jsDelivr 的 CDN加速，更新会有延迟]
   
   https://sub.giteecn.workers.dev/itvlist/jd/main/ml.txt          [cloudflare反代，支援大陆地区访问，无延迟]
+
